@@ -22,7 +22,7 @@ Application includes Logcat logging for major screens.
 
 ## Demo Video
 Paste your video link here:
-[Add your video link]
+[https://youtu.be/3EfyUlxxu8U]
 
 ## Repository
 Contains full Kotlin source code and project files.
